@@ -1,0 +1,87 @@
+﻿[
+    {
+        "source_url":  "https://openkernelchallenge.dev/api/v1/leaderboard/muse_attention_decode",
+        "rank":  126,
+        "fetched_utc":  "2026-11-20T08:16:02.3244404Z",
+        "row":  {
+                    "job":  "fcf3d95f5f2046bc",
+                    "team":  "aditya3799",
+                    "speedup":  2.6934858288034706,
+                    "submitted_at":  1793817456.5820477,
+                    "attempts":  74,
+                    "value":  1398.2995417032162
+                },
+        "problem":  "muse_attention_decode",
+        "published_final_marker":  null,
+        "ranked_participants":  1379,
+        "rank_method":  "1 + participant rows with lower value, excluding stock SGLang"
+    },
+    {
+        "source_url":  "https://openkernelchallenge.dev/api/v1/leaderboard/muse_bf16_proj",
+        "rank":  72,
+        "fetched_utc":  "2026-11-20T08:16:05.8554122Z",
+        "row":  {
+                    "job":  "ac25b659640245d1",
+                    "team":  "aditya3799",
+                    "speedup":  1.5967148032438307,
+                    "submitted_at":  1793817164.0180264,
+                    "attempts":  102,
+                    "value":  3025.4620237664944
+                },
+        "problem":  "muse_bf16_proj",
+        "published_final_marker":  null,
+        "ranked_participants":  1740,
+        "rank_method":  "1 + participant rows with lower value, excluding stock SGLang"
+    },
+    {
+        "source_url":  "https://openkernelchallenge.dev/api/v1/leaderboard/muse_decode_layer",
+        "rank":  194,
+        "fetched_utc":  "2026-11-20T08:16:09.3817413Z",
+        "row":  {
+                    "job":  "c3d4cf6955bf4cdc",
+                    "team":  "aditya3799",
+                    "speedup":  2.268392751078997,
+                    "submitted_at":  1793800160.5613708,
+                    "attempts":  48,
+                    "value":  9971.950399347861
+                },
+        "problem":  "muse_decode_layer",
+        "published_final_marker":  null,
+        "ranked_participants":  1296,
+        "rank_method":  "1 + participant rows with lower value, excluding stock SGLang"
+    },
+    {
+        "source_url":  "https://openkernelchallenge.dev/api/v1/leaderboard/muse_moe_w4a16",
+        "rank":  110,
+        "fetched_utc":  "2026-11-20T08:16:12.0882295Z",
+        "row":  {
+                    "job":  "5f5a8c8b72b24ee4",
+                    "team":  "aditya3799",
+                    "speedup":  2.438946471814003,
+                    "submitted_at":  1793822354.1952343,
+                    "attempts":  54,
+                    "value":  5514.061155264911
+                },
+        "problem":  "muse_moe_w4a16",
+        "published_final_marker":  null,
+        "ranked_participants":  1422,
+        "rank_method":  "1 + participant rows with lower value, excluding stock SGLang"
+    },
+    {
+        "source_url":  "https://openkernelchallenge.dev/api/v1/leaderboard/muse_prefill_layer",
+        "rank":  54,
+        "fetched_utc":  "2026-11-20T08:16:14.3076339Z",
+        "row":  {
+                    "job":  "399cbda410c440ee",
+                    "team":  "aditya3799",
+                    "speedup":  1.9359963825270015,
+                    "submitted_at":  1793789397.1579332,
+                    "attempts":  98,
+                    "value":  200105.69415131482
+                },
+        "problem":  "muse_prefill_layer",
+        "published_final_marker":  null,
+        "ranked_participants":  895,
+        "rank_method":  "1 + participant rows with lower value, excluding stock SGLang"
+    }
+]

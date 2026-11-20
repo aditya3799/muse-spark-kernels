@@ -1,0 +1,42 @@
+{
+  "muse_bf16_proj": {
+    "source_file": "muse_bf16_proj/submission_plain_full_guard_v221.py",
+    "export_file": "muse_bf16_proj/submission.py",
+    "sha256": "bec0d91828a3fc5b2311ee5963ad8ae83920b9fe660c0c0a333b3c32e1fb4dd9",
+    "selection_evidence": "Documented v221 scored incumbent; SHA-256 recorded in NEXT_OPTIMIZATION_RESEARCH.md.",
+    "leaderboard_job": "ac25b659640245d1",
+    "documented_source_association": true
+  },
+  "muse_attention_decode": {
+    "source_file": "muse_attention_decode/submission.py",
+    "export_file": "muse_attention_decode/submission.py",
+    "sha256": "3e6d676275706a76c624b27a970583e6157a8cc536c4843d72fdc40b986172a2",
+    "selection_evidence": "Documented scored incumbent; SHA-256 recorded in RESUME_NOTES_2026-11-04_ATTENTION.md.",
+    "leaderboard_job": "fcf3d95f5f2046bc",
+    "documented_source_association": true
+  },
+  "muse_moe_w4a16": {
+    "source_file": "muse_moe_w4a16/submission_backup_baseline.py",
+    "export_file": "muse_moe_w4a16/baseline_snapshot.py",
+    "sha256": "f33da1ab664fefd4d1f2b92556945b6e34a88738386029445120e4d78858a118",
+    "selection_evidence": "Backup taken before the later polling experiments. Exact byte identity to the best scored payload has not been established; do not attribute the leaderboard score to this file as a verified reproduction.",
+    "leaderboard_job": "5f5a8c8b72b24ee4",
+    "documented_source_association": false
+  },
+  "muse_decode_layer": {
+    "source_file": "muse_decode_layer/submission_s108_att_cgemv.py",
+    "export_file": "muse_decode_layer/submission.py",
+    "sha256": "31213d777b9ff7c045a1842963a68e3e0aa5f79fa35d3f9ffd10bbb54ed39f6b",
+    "selection_evidence": "S108 source linked to the scored job by submit_s108.json and scripts/build_s109_candidate.py.",
+    "leaderboard_job": "c3d4cf6955bf4cdc",
+    "documented_source_association": true
+  },
+  "muse_prefill_layer": {
+    "source_file": "muse_prefill_layer/submission_scored_399cbda410c440ee.py",
+    "export_file": "muse_prefill_layer/submission.py",
+    "sha256": "7a5aedf8b6def500d72463a5a12eea7f9bb07c49a8977b400ccb27739d23676e",
+    "selection_evidence": "Job-named scored snapshot and recorded SHA-256 in GOAL_PROGRESS.md.",
+    "leaderboard_job": "399cbda410c440ee",
+    "documented_source_association": true
+  }
+}

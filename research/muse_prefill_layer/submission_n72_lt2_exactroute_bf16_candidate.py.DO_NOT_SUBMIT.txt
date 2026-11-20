@@ -1,0 +1,5 @@
+DO NOT SUBMIT THIS CANDIDATE.
+
+Audit found that submission_fastaccum_d52_control.py inherited unconditional route shaping through
+`shape_routes = T >= ROUTE_SHAPE_MIN_T`, despite lacking a ROUTE_SHAPING flag. Official job
+16e3ed6551284df1 is an off-board check only. Use submission_n72_lt2_exactroute_clean_candidate.py instead.

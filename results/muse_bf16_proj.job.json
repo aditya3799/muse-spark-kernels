@@ -1,0 +1,31 @@
+{
+  "id": "ac25b659640245d1",
+  "problem": "muse_bf16_proj",
+  "team": "aditya3799",
+  "mode": "run",
+  "status": "done",
+  "created_at": 1793817164.0180264,
+  "finished_at": 1793817323.722496,
+  "server_content_hash": "b470ed65e331e20d010c175c338cf30e5bd12c563ab5857642b0d9d385013776",
+  "fetched_utc": "2026-11-20T08:27:41.223110+00:00",
+  "source_url": "https://openkernelchallenge.dev/api/v1/jobs/ac25b659640245d1",
+  "result": {
+    "gpu": "H200",
+    "passed": true,
+    "status": "ok",
+    "speedup": 1.5967148032438307,
+    "speedup_ci": [
+      1.5727640811951733,
+      1.620665525292488
+    ],
+    "score_us": 3025.4620237664944,
+    "baseline_us": 4830.8,
+    "flags": [],
+    "checks": {
+      "ok": true,
+      "flagged": [],
+      "rejected": []
+    },
+    "record_count": 70
+  }
+}

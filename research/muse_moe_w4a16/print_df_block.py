@@ -1,0 +1,9 @@
+with open("submission.py", "r", encoding="utf-8") as f:
+    text = f.read()
+
+pos = text.find("ALT_SRCS['v167_helper0']")
+end = text.find("ALT_SRCS['v167_main']")
+lines = text[pos:end].replace("\\n", "\n").splitlines()
+
+for i in range(1550, 1580):
+    print(f"Line {i}: {lines[i]}")

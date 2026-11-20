@@ -1,0 +1,31 @@
+{
+  "id": "c3d4cf6955bf4cdc",
+  "problem": "muse_decode_layer",
+  "team": "aditya3799",
+  "mode": "run",
+  "status": "done",
+  "created_at": 1793800160.5613708,
+  "finished_at": 1793800710.250263,
+  "server_content_hash": "f7d810d6bf5be29e96ec315f1af200f1d02a38897ed856d0055e28d21ab4d160",
+  "fetched_utc": "2026-11-20T08:27:41.223110+00:00",
+  "source_url": "https://openkernelchallenge.dev/api/v1/jobs/c3d4cf6955bf4cdc",
+  "result": {
+    "gpu": "H200",
+    "passed": true,
+    "status": "ok",
+    "speedup": 2.268392751078997,
+    "speedup_ci": [
+      2.234366859812812,
+      2.302418642345182
+    ],
+    "score_us": 9971.950399347861,
+    "baseline_us": 22620.3,
+    "flags": [],
+    "checks": {
+      "ok": true,
+      "flagged": [],
+      "rejected": []
+    },
+    "record_count": 38
+  }
+}

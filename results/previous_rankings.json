@@ -1,0 +1,117 @@
+[
+  {
+    "problem": "muse_bf16_proj",
+    "ranked": 1740,
+    "you": {
+      "rank": 72,
+      "team": "aditya3799",
+      "speedup": 1.5967,
+      "first": false,
+      "ahead": 71,
+      "to_first": 1.082
+    },
+    "own_rows": [
+      {
+        "attempts": 102,
+        "job": "ac25b659640245d1",
+        "rank": 72,
+        "speedup": 1.5967,
+        "submitted_at": 1793817164.0180264,
+        "team": "aditya3799",
+        "value": 3025.4620237664944
+      }
+    ]
+  },
+  {
+    "problem": "muse_attention_decode",
+    "ranked": 1379,
+    "you": {
+      "rank": 126,
+      "team": "aditya3799",
+      "speedup": 2.6935,
+      "first": false,
+      "ahead": 125,
+      "to_first": 1.2396
+    },
+    "own_rows": [
+      {
+        "attempts": 74,
+        "job": "fcf3d95f5f2046bc",
+        "rank": 126,
+        "speedup": 2.6935,
+        "submitted_at": 1793817456.5820477,
+        "team": "aditya3799",
+        "value": 1398.2995417032162
+      }
+    ]
+  },
+  {
+    "problem": "muse_moe_w4a16",
+    "ranked": 1422,
+    "you": {
+      "rank": 110,
+      "team": "aditya3799",
+      "speedup": 2.4389,
+      "first": false,
+      "ahead": 109,
+      "to_first": 1.166
+    },
+    "own_rows": [
+      {
+        "attempts": 54,
+        "job": "5f5a8c8b72b24ee4",
+        "rank": 110,
+        "speedup": 2.4389,
+        "submitted_at": 1793822354.1952343,
+        "team": "aditya3799",
+        "value": 5514.061155264911
+      }
+    ]
+  },
+  {
+    "problem": "muse_decode_layer",
+    "ranked": 1296,
+    "you": {
+      "rank": 194,
+      "team": "aditya3799",
+      "speedup": 2.2684,
+      "first": false,
+      "ahead": 193,
+      "to_first": 1.1525
+    },
+    "own_rows": [
+      {
+        "attempts": 48,
+        "job": "c3d4cf6955bf4cdc",
+        "rank": 194,
+        "speedup": 2.2684,
+        "submitted_at": 1793800160.5613708,
+        "team": "aditya3799",
+        "value": 9971.950399347861
+      }
+    ]
+  },
+  {
+    "problem": "muse_prefill_layer",
+    "ranked": 895,
+    "you": {
+      "rank": 54,
+      "team": "aditya3799",
+      "speedup": 1.936,
+      "first": false,
+      "ahead": 53,
+      "to_first": 1.109
+    },
+    "own_rows": [
+      {
+        "attempts": 98,
+        "job": "399cbda410c440ee",
+        "rank": 54,
+        "speedup": 1.936,
+        "submitted_at": 1793789397.1579332,
+        "team": "aditya3799",
+        "value": 200105.69415131482
+      }
+    ]
+  }
+]
